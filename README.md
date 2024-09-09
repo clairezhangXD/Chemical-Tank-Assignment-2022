@@ -1,11 +1,12 @@
 # 22-S1
-Chemical Tank Assignment (5 member group)
+Chemical Tank (5 member group)
 
 ## Claire's Takeaways
 
 First time using python in a group project and integrating hardware and software components to create a console menu that manages a chemical tank prototype.
 
-Concepts/components applied or manipulated in this assignment learnt throughout the unit:
+Concepts/components applied or manipulated during the project:
+- Project management
 - While loops
 - Conditional statements
 - LEDs
